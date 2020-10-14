@@ -37,6 +37,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Hello Laravel! - by 辛鑫</div>
+                
             </div>
         </div>
     </body>
