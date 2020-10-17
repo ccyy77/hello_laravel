@@ -10,8 +10,8 @@
             "request": "launch",
             "stopOnEntry": false,
             "pathMappings": {
-                "c": "home/vagrant/code/",
-                "code": "home/vagrant/code/"
+                "code": "/home/vagrant/code/",
+                "CODE": "${workspaceRoot}/code/"
               },
             "port": 9000
         },
